@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# ABOUT THIS BLOG
+# 关于这个博客
 
 我的读书笔记  
 
